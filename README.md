@@ -1,3 +1,3 @@
 # kokos
 
-super kokosasdfasdf
+super kokos
